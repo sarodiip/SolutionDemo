@@ -7,6 +7,7 @@ namespace ConsoleAppDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Всем привет!");
             ClassDemo cd = new ClassDemo();
 
             Console.WriteLine("Введите значение переменной A:");
